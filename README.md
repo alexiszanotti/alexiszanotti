@@ -30,3 +30,5 @@ Actualmente resido en Valencia, España. </h4>
 - [ ] Motivación
 - [ ] Flexibilidad
 - [ ] Comunicación
+
+![GitHub](https://user-images.githubusercontent.com/84089185/141527323-65b7d28d-4aed-48d6-88da-82aa071f586b.png)
