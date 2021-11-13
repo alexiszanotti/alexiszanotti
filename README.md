@@ -33,7 +33,9 @@ Actualmente resido en Valencia, España. </h4>
 
 ![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiszanotti&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiszanotti&layout=compact)](https://github.com/alexiszanotti/github-readme-stats)
 
 
 
-![GitHub](https://user-images.githubusercontent.com/84089185/141527323-65b7d28d-4aed-48d6-88da-82aa071f586b.png)
+
+
