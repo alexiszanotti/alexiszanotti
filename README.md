@@ -5,7 +5,7 @@
 
 
 ### <h4 align='Center'>  Me desarrollé en el área comercial de varias empresas, y con la pandemia, conocí el maravilloso y apasionante mundo del desarrollo web y fue amor a primera codeada. Lo que empezó como una curiosidad, se convirtió en un medio de vida.
-Por mis años como comercial tengo una gran capacidad de empatizar con la gente y una excelente habilidad para el trabajo en equipo, siempre abierto a la posibilidad de aprender y seguir creciendo en todo lo que me proponga. ### Si no lo sé, intentaré aprenderlo
+Por mis años como comercial tengo una gran capacidad de empatizar con la gente y una excelente habilidad para el trabajo en equipo, siempre abierto a la posibilidad de aprender y seguir creciendo en todo lo que me proponga.  <b> Si no lo sé, intentaré aprenderlo </b>
 Actualmente resido en Valencia, España. </h4>
 
 ## Tech Skills                 
