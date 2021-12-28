@@ -12,6 +12,7 @@ Por mis años como comercial tengo una gran capacidad de empatizar con la gente 
 - [ ] React                     
 - [ ] Redux 
 - [ ] Express
+- [ ] TypeScript
 - [ ] Sequelize  
 - [ ] NodeJS
 - [ ] JavaScript
