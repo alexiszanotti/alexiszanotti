@@ -1,5 +1,6 @@
 
-![Alexis Zanotti(2)](https://user-images.githubusercontent.com/84089185/141279731-925666a0-2064-4582-b798-e0054ddc4d35.png)
+![Alexis Zanotti(1)](https://user-images.githubusercontent.com/84089185/147567953-2a95423e-7a2e-4a02-8460-72ac5f1e2dbe.png)
+
 
 ### 						<h2 align='Center'>Hola! 👋 Por aquí, un apasionado de la programación y el saber! 😄</h2>
 
