@@ -10,7 +10,7 @@ Por mis años como comercial tengo una gran capacidad de empatizar con la gente 
 
 ## Tech Skills    
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:20px" />
 
 - [ ] React                     
 - [ ] Redux 
