@@ -8,7 +8,9 @@
 ### <h4 align='Center'>  Siempre me gusto el mundo de la tecnología, y con la pandemia, conocí el maravilloso y apasionante mundo del desarrollo web y fue amor a primera vista. Lo que empezó como una curiosidad, se convirtió en el futuro que quiero seguir.
 Por mis años como comercial tengo una gran capacidad de empatizar con la gente y una excelente habilidad para el trabajo en grupo, pero lo que mas me destaca son mis ganas constantes de querer crecer y nunca conformarme. Siempre abierto a la posibilidad de aprender. Si no lo sé, intentaré aprenderlo </h4>
 
-## Tech Skills                 
+## Tech Skills    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 - [ ] React                     
 - [ ] Redux 
