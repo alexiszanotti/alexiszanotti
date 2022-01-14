@@ -9,7 +9,7 @@
 Por mis años como comercial tengo una gran capacidad de empatizar con la gente y una excelente habilidad para el trabajo en grupo, pero lo que mas me destaca son mis ganas constantes de querer crecer y nunca conformarme. Siempre abierto a la posibilidad de aprender. Si no lo sé, intentaré aprenderlo </h4>
 
 
-## 🛠 Skills
+### 🛠 Skills
 ### Tech     
 
 <span>
