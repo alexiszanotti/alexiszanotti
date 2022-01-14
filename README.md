@@ -4,7 +4,7 @@
 
 ### 						<h2 align='Center'>Hola! 👋 Por aquí, un apasionado de la programación y el saber! 😄</h2>
 
-## 🚀 Sobre mi
+### 🚀 Sobre mi
 ### <h4 align='Center'>  Siempre me gusto el mundo de la tecnología, y con la pandemia, conocí el maravilloso y apasionante mundo del desarrollo web y fue amor a primera vista. Lo que empezó como una curiosidad, se convirtió en el futuro que quiero seguir.
 Por mis años como comercial tengo una gran capacidad de empatizar con la gente y una excelente habilidad para el trabajo en grupo, pero lo que mas me destaca son mis ganas constantes de querer crecer y nunca conformarme. Siempre abierto a la posibilidad de aprender. Si no lo sé, intentaré aprenderlo </h4>
 
@@ -31,7 +31,7 @@ Por mis años como comercial tengo una gran capacidad de empatizar con la gente 
 
 
 
-## Soft 
+### Soft 
 
 - [ ] Trabajo en Equipo
 - [ ] Empatía
