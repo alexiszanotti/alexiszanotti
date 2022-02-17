@@ -31,7 +31,7 @@ Por mis años como comercial tengo una gran capacidad de empatizar con la gente 
 
 
 
-### Soft 
+### Soft
 
 - [ ] Trabajo en Equipo
 - [ ] Empatía
