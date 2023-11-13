@@ -2,7 +2,7 @@
 ![Alexis Zanotti(1)](https://user-images.githubusercontent.com/84089185/147567953-2a95423e-7a2e-4a02-8460-72ac5f1e2dbe.png)
 
 
-### 						<h2 align='Center'>Hola! 👋 Por aquí, un apasionado de la programación y el saber! 😄</h2>
+### 						<h2 align='Center'>Hola! 👋 Por aquí, un apasionado de la programación y el aprendisaje constante! 😄</h2>
 
 ### 🚀 Sobre mi
 ### <h4 align='Center'>  Siempre me gusto el mundo de la tecnología, y con la pandemia, conocí el maravilloso y apasionante mundo del desarrollo web y fue amor a primera vista. Lo que empezó como una curiosidad, se convirtió en el futuro que quiero seguir.
