@@ -5,8 +5,7 @@
 ### 						<h2 align='Center'>Hola! 👋 Por aquí, un apasionado de la programación y el aprendisaje constante! 😄</h2>
 
 ### 🚀 Sobre mi
-### <h4 align='Center'>  Siempre me gusto el mundo de la tecnología, cuando conocí el maravilloso y apasionante mundo del desarrollo web, fue amor a primera vista. Lo que empezó como una curiosidad, se convirtió en pasión.
-Por mis años como comercial tengo una gran capacidad de empatizar con la gente y una excelente habilidad para el trabajo en grupo, pero lo que mas me destaca son mis ganas constantes de querer crecer y nunca conformarme. Siempre abierto a la posibilidad de aprender. Si no lo sé, intentaré aprenderlo </h4>
+### <h4 align='Center'>  Soy un profesional adaptable y orientado a resultados, con experiencia en entornos dinámicos y la capacidad de mantener un alto rendimiento bajo presión. Destaco por una comunicación clara y efectiva, que facilita la colaboración con equipos multidisciplinarios y la creación de relaciones positivas. Comprometido con la excelencia, enfrento desafíos con iniciativa y enfoque en alcanzar objetivos estratégicos que aporten valor tangible. </h4>
 
 
 ### 🛠 Skills
