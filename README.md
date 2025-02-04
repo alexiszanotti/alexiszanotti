@@ -1,5 +1,5 @@
 
-(![Fondo](https://github.com/user-attachments/assets/48c5c0f0-3ada-4c08-91aa-515580342a4d)
+![Fondo](https://github.com/user-attachments/assets/48c5c0f0-3ada-4c08-91aa-515580342a4d)
 
 
 
