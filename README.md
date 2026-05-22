@@ -7,7 +7,8 @@
 ### 						<h2 align='Center'>Hola! 👋 Por aquí, un apasionado de la programación y el aprendisaje constante! 😄</h2>
 
 ### 🚀 Sobre mi
-### <h4>  Soy un profesional adaptable y orientado a resultados, con experiencia en entornos dinámicos y la capacidad de mantener un alto rendimiento bajo presión. Destaco por una comunicación clara y efectiva, que facilita la colaboración con equipos multidisciplinarios y la creación de relaciones positivas. Comprometido con la excelencia, enfrento desafíos con iniciativa y enfoque en alcanzar objetivos estratégicos que aporten valor tangible. </h4>
+### <h4>  Senior Frontend Software Engineer con más de 5+ años de experiencia trabajando con React y TypeScript en producción, desarrollando aplicaciones web mantenibles y orientadas al usuario final.
+Además, desarrollo proyectos freelance y personales, enfocados en SEO y Perfomance. </h4>
 
 
 ### 🛠 Skills
